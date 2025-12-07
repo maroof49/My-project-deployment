@@ -18,4 +18,4 @@ spec:
       - name: spring-boot-app
         image: maroof49/ultimate-cicd:12
         ports:
-        - containerPort: 8082
+        - containerPort: 8080
